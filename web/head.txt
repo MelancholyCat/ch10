@@ -1,0 +1,16 @@
+<%@ page contentType="text/html;charset=GB2312" %>
+<div align="center">
+  <Font color=red><H3>“智多星”智能手机销售网</H3></Font>
+  <table  cellSpacing="1" cellPadding="1" width="660" align="center" border="0">
+   <tr valign="bottom">
+    <td><A href="inputRegisterMess.jsp">注册</font></A></td>
+    <td><A href="login.jsp">登录</A></td>
+    <td><A href="lookMobile.jsp">浏览手机</A></td>
+    <td><A href="searchMobile.jsp">查询手机</A></td>
+    <td><A href="lookShoppingCar.jsp">查看购物车</A></td>
+    <td><A href="lookOrderForm.jsp">查看订单</A></td>
+    <td><A href="exitServlet">退出</A></td>
+    <td><A href="index.jsp">主页</A></td>
+   </tr>
+  </table>
+</div>
